@@ -1,0 +1,11 @@
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csprojResolveAssemblyReference.cache
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Form1.resources
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Form2.resources
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.Properties.Resources.resources
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.GenerateResource.Cache
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.exe
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.pdb
+C:\Users\UDK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\Debug\WindowsFormsApplication21.csproj.CoreCompileInputs.cache
